@@ -31,7 +31,7 @@ If you're presenting, say, a piece of code that acquires and releases a lock in 
 
 ## Be honest
 
-If people ask you a question and you don't know the answer, the worst possible behaviour is to guess an answer. That's dishonest. Admit that you don't know and let's look for answer together. Try not to think of this presentation as an exam. Your goal is to understand and to pass on this understanding. Your goal is not to prove that you understand. So never pretend to understand more than you actually do. 
+If people ask you a question and you don't know the answer, the worst possible behaviour is to guess an answer. That's dishonest. Admit that you don't know and let's look for an answer together. Try not to think of this presentation as an exam. Your goal is to understand and to pass on this understanding. Your goal is not to prove that you understand. So never pretend to understand more than you actually do. 
 
 ## Understand questions before answering them
 
