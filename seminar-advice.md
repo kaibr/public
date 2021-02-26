@@ -2,7 +2,7 @@
 
 ## Be aware of your audience
 
-A frequent mistake with the talk and the report is that they are addressed at me. That's not the idea. They should be addressed at your fellow students. It helps a lot to have in mind a concrete person for which you're writing the report or for who you're giving the talk. Think of a representative fellow student, let's say, Alice. So, whenever you wonder, "Hm, should I explain frobnifiers? Or do people already know about frobnifiers?" Just think of Alice. Does she know about frobnifiers? If yes, you don't need to explain them. Otherwise you do.
+A frequent mistake with the talk and the report is that they are addressed at me. That's not the idea. They should be addressed at your fellow students. It helps a lot to have in mind a specific person for which you're writing the report or for who you're giving the talk. Think of a representative fellow student, let's say, Alice. So, whenever you wonder, "Hm, should I explain frobnifiers? Or do people already know about frobnifiers?" Just think of Alice. Does she know about frobnifiers? If yes, you don't need to explain them. Otherwise you do.
 
 ## Slow down
 
