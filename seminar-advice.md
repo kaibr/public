@@ -22,7 +22,7 @@ This means that often it is better to present the problem before the solution, r
 
 ## Carefully select the material 
 
-You have worked hard to understand a lot of material. Now you'd like to show off the hard work. Resist the temptation. Carefully select the material to present and keep in mind how much time it took you to understand it. I went to many talks and from the majority of them I learned nothing. Focus on one little thing, just one thing that you want everybody to take away from your talk. If you succeed, you've achieved a lot.
+You have worked hard to understand a lot of material. Now you'd like to show off the hard work. Resist the temptation. Carefully select the material to present and keep in mind how much time it took you to understand it. You know much more than you present, and that is the way it should be. I went to many talks and from the majority of them I learned nothing. Focus on one little thing, just one thing that you want everybody to take away from your talk. If you succeed, you've achieved a lot.
 
 
 ## Anticipate questions
