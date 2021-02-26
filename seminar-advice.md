@@ -1,5 +1,8 @@
 # Seminar Advice
 
+## Be aware of your audience
+
+A frequent mistake with the talk and the report is that they are addressed at me. That's not the idea. They should be addressed at your fellow students. It helps a lot to have in mind a concrete person for which you're writing the report or for who you're giving the talk. Think of a representative fellow student, let's say, Alice. So, whenever you wonder, "Hm, should I explain frobnifiers? Or do people already know about frobnifiers?" Just think of Alice. Does she know about frobnifiers? If yes, you don't need to explain them. Otherwise you do.
 
 ## Slow down
 
@@ -9,7 +12,7 @@ Many seminar talks go much too fast. If you're presenting an algorithm or a cryp
 
 We don't need you to tell us what is written in the material -- we can read perfectly fine, thank you very much! We are interested in your understanding of the material. Say there is an algorithm in the material that you want to present. It probably took you some time to understand it. During that time you first had some wrong ideas about it, tried a couple of examples, corrected your wrong ideas, made some little sketches to visualize the working of the algorithm, and then you finally understood it. We need to see all of that: the wrong ideas, why they are wrong, the examples and the visualizations. That's your contribution.  Not copy-pasting the algorithm.  
 
-## Problem before Solution
+## Problem before solution
 
 I have seen quite a number of detailled explanations of algorithms, with extensive and detailled visualizations of the state changes during the iterations etc. -- and during all of that I had no idea what the algorithm is for. Which means the talk was totally lost on me, because I just had no way of being interested. 
 
@@ -40,7 +43,7 @@ Whenever you're presenting B, and an understanding of A is required to understan
 
 ## Separate your own thoughts from other people's thoughts
 
-You're talking about a programming language. A book says the language is well-suited to implement compilers. If you now tell us that the language is well-suited to implement compilers, then that is absolutely inacceptable. Don't. What would be acceptable is if you told us that *the book says that* the language is well-suited for writing compilers. What would of course be even better is if you implemented a little compiler in that language, formed your own understanding of whether the language is suited or not and then told us what you learned. 
+You're talking about a programming language. A book says the language is well-suited to implement compilers. If you now tell us that the language is well-suited to implement compilers, then that is inacceptable. Don't. What would be acceptable is if you told us that *the book says that* the language is well-suited for writing compilers. What would of course be even better is if you implemented a little compiler in that language, formed your own understanding of whether the language is suited or not and then told us what you learned. 
 
  
 
